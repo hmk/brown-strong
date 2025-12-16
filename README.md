@@ -6,31 +6,26 @@ This repository contains a `BROWN STRONG` design created in a moment of shared d
 
 The design is intentionally simple and restrained, using official Brown University marks and language to reflect unity rather than commentary. It is shared publicly for transparency and limited community use.
 
-## Download Files
+## Download
 
-For convenience, the primary files are linked directly below.
+📦 **[Download display assets (ZIP)](assets/brown-strong.zip)**
 
-### Print (recommended)
-- 📄 **[Print-ready PDF](assets/print/brown-strong-print.pdf)**
-- 🧩 **[Vector SVG](assets/print/brown-strong-print.svg)**
+The ZIP includes:
+- Multiple color variants (color, white, dark) for different backgrounds and displays
+- Wallpapers for desktop and mobile devices
 
-### Source (for editing or adaptation)
-- 🎨 **[Figma source file (.fig)](assets/source/brown-strong.fig)**
+Not ZIP does **NOT** include:
+- source files
+- print assets (svg and pdf)
 
-### Display / Preview
-- 🖼 **[High-resolution PNG (12in, 300 DPI)](assets/display/brown-strong-12in-300dpi.png)**
-
-> ‼️
->
-> Files in `assets/display` are for display only.  
-> Use files in `assets/print` for print production.
+Those are available directly in this repo for those who need them
 
 ## What This Is
 
-- A single-color design reading **“Brown Strong”**
+- A logo design reading **“Brown Strong”**
 - Built around the official Brown University seal
 - Designed for clarity, reproducibility, and respectful use
-- Intended for institutional or community-led production, not commercialization
+- Intended for institutional or community-led production related to fundraising in the aftermath of a tragedy, not commercialization
 
 The design takes visual inspiration from the now-concluded **Brown Together** campaign and updates that approach to reflect how the community comes together *strong* — with shared resolve, care, and support.
 
